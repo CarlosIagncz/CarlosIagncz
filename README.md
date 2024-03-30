@@ -1,9 +1,4 @@
-class Carlos:
-- print("Hi, I’m @CarlosIagnecz")
-- require(python)
-- import pygame as learning
-- collabs = []
-- reach = {"Site":None,"Discord":"CarlosIagnecz7946"}
+This is probably not ok.
 
 <!---
 CarlosIagncz/CarlosIagncz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
